@@ -1,1 +1,1 @@
-# calculatorApp with Kivy
+# calculatorApp made with Kivy
